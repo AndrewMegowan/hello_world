@@ -1,6 +1,5 @@
 # hello_world
 
-hello tiny earthlings
+Hello there internets, my name is Andrew Megowan, im currently a student at Humoboldt State Univeristy studying Environmental Science with an empahsis in energy and climate.
 
-there is one of called Greg, he his the worst of them all, bannish him to a hole.
-that is all.
+.... more will be added to this later.
